@@ -39,7 +39,9 @@ State
 
 @snapend
 
-___
+---
 @snap
 ![](./logo.png)
+Redux Fundamentals
+Ryan Boris * March 5, 2019
 @snapend
