@@ -41,5 +41,5 @@ State
 
 ___
 @snap
-![](~/Desktop/logo.png)
+![](./logo.png)
 @snapend
