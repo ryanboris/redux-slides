@@ -27,3 +27,19 @@ _4_.  How does Redux integrate with React?
 @snapend
 
 @snapend
+
+---?color=lightgray
+@snap
+
+Action Creator  
+Action  
+Dispatch  
+Reducers  
+State  
+
+@snapend
+
+___
+@snap
+![](~/Desktop/logo.png)
+@snapend
